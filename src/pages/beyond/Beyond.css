@@ -1,0 +1,58 @@
+.hero {
+    background-image: url('../../assests/images/heroimg2.png');
+    background-size: cover;
+    background-position: center;
+    height: 65vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    text-align: center;
+    box-shadow: 0px 4px 10px rgba(255, 192, 203, 0.445);
+
+  }
+  .main{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    padding: 0 50px;
+  }
+  
+  .main-content {
+    padding: 50px;
+    background-color: #fff;
+    margin: 50px 0;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+  }
+  .headertxt
+  {
+    font-family: "Poppins", sans-serif;
+    font-size: 2rem;
+    padding-left:8rem;
+    padding-bottom: 10rem;
+    background: linear-gradient(296.52deg, #048AD5 20.73%, #E35399 57.25%, #E25499 77.73%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text; 
+
+  }
+  .h2main
+  {
+    font-family: "Poppins", sans-serif;
+    font-weight: 30px;
+  }
+  a {
+    color: #007bff; 
+    text-decoration: none; 
+    font-weight: bold; 
+  }
+  
+  a:hover {
+    text-decoration:dotted; 
+    opacity: 0.8; 
+  }
+  
+
+  
